@@ -1,1 +1,7 @@
-
+- 👋 Hi, I’m @Tux-n00b
+- 👀 I’m interested in ...  Capture The Flag games and Bug Bounties
+- 🌱 I’m currently learning ...  Information Security and Forensics
+- 💞️ I’m looking to collaborate on ...  CTF writeups and Hacking Methodologies
+- 📫 How to reach me ...  I'll post a few links in time 
+- 😄 Pronouns: ...  He / HIM / I
+- ⚡ Fun fact: ...  My greatest imperfection is perfection
